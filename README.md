@@ -12,3 +12,4 @@ empresa: Devcated
 * Ex03 - Uso da função printf com valores literais do tipo inteiro (int)
 * Ex04 - Uso da função printf com valores literais do tipo ponto flutuante (float)
 * Ex05 - Uso da função printf com valores literais do tipo string
+* Ex06 - Uso de espaçamento
