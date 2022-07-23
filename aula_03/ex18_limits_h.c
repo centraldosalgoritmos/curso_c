@@ -1,10 +1,10 @@
 /*
-    @author marcosmapl
-    @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
-    @since Nov 20, 2019
+	@author marcosmapl
+	@email marcos.lima@icomp.ufam.edu.br
+	@company O Cara dos Algoritmos
+	@since Nov 20, 2019
 
-    Exemplificando o uso da biblioteca 'limits.h'.
+	Exemplificando o uso da biblioteca 'limits.h'.
 */
 #include <stdio.h>
 #include <limits.h>
