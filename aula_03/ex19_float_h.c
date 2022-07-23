@@ -1,18 +1,17 @@
 /*
-    @author marcosmapl
-    @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
-    @since Nov 20, 2019
+	@author marcosmapl
+	@email marcos.lima@icomp.ufam.edu.br
+	@company O Cara dos Algoritmos
+	@since Nov 20, 2019
 
-    Exemplificando o uso da biblioteca 'float.h'
-    FLT - float
-    DBL - double
-    LBL - long double
-    DIG - dígitos de precisão
-    EXP - expoente
-    MAN_DIG - dígitos para mantissa
-    EPSILON - diferença entre 1 e o menor valor representável maior que 1.
-
+	Exemplificando o uso da biblioteca 'float.h'
+	FLT - float
+	DBL - double
+	LBL - long double
+	DIG - dígitos de precisão
+	EXP - expoente
+	MAN_DIG - dígitos para mantissa
+	EPSILON - diferença entre 1 e o menor valor representável maior que 1.
 */
 #include <stdio.h>
 #include <float.h>
