@@ -1,7 +1,7 @@
 /*
     @author marcosmapl
     @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
+    @company O Cara dos Algoritmos
     @since Nov 20, 2019
 
     Exemplificando a declaração e inicialização de variáveis 'signed' e 'unsigned'.
