@@ -1,10 +1,10 @@
 /*
-    @author marcosmapl
-    @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
-    @since Nov 20, 2019
+	@author marcosmapl
+	@email marcos.lima@icomp.ufam.edu.br
+	@company O Cara dos Algoritmos
+	@since Oct 20, 2019
 
-    Exemplificando promoção de tipos menores para o tipo 'inteiro'.
+	Exemplificando promoção de tipos menores para o tipo 'inteiro'.
 */
 #include <stdio.h>
 
