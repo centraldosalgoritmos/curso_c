@@ -1,7 +1,7 @@
 /*
 	@author marcosmapl
 	@email marcos.lima@icomp.ufam.edu.br
-	@company Devcated
+	@company O Cara dos Algoritmos
 	@since Oct 20, 2019
 
 	Exemplos de uso da função printf com caracteres.
