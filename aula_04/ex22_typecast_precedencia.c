@@ -1,7 +1,7 @@
 /*
     @author marcosmapl
     @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
+    @company O Cara dos Algoritmos
     @since Nov 22, 2019
 
     Exemplificando ordem de avaliação da instrução de conversão.
