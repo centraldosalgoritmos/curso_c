@@ -1,11 +1,11 @@
 /*
-    @author marcosmapl
-    @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
-    @since Nov 13, 2019
-
-    Exemplificando a declaração e inicialização de variáveis 'double' e 'float'.
-    Exemplificando como declarar literais.
+	@author marcosmapl
+	@email marcos.lima@icomp.ufam.edu.br
+	@company O Cara dos Algoritmos
+	@since Oct 20, 2019
+    
+	Exemplificando a declaração e inicialização de variáveis 'double' e 'float'.
+	Exemplificando como declarar literais.
 	Exemplificando a diferença de precisão.
 */
 // gcc ex11_precisao.c -o precisao -lm
