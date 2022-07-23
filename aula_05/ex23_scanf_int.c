@@ -1,10 +1,10 @@
 /*
-    @author marcosmapl
-    @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
-    @since Nov 22, 2019
+	@author marcosmapl
+	@email marcos.lima@icomp.ufam.edu.br
+	@company O Cara dos Algoritmos
+	@since Nov 22, 2019
 
-    Exemplificando usar a função 'scanf' para fazer leitura de valores inteiros inseridos pelo teclado.
+	Exemplificando usar a função 'scanf' para fazer leitura de valores inteiros inseridos pelo teclado.
 */
 #include <stdio.h>
 
