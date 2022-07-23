@@ -1,8 +1,8 @@
 /*
-    @author marcosmapl
-    @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
-    @since Nov 13, 2019
+	@author marcosmapl
+	@email marcos.lima@icomp.ufam.edu.br
+	@company O Cara dos Algoritmos
+	@since Oct 20, 2019
 
     Exemplificando como:
     1 - Declarar e inicializar variáveis do tipo 'char'.
