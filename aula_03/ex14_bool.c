@@ -1,11 +1,11 @@
 /*
-    @author marcosmapl
-    @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
-    @since Nov 18, 2019
+	@author marcosmapl
+	@email marcos.lima@icomp.ufam.edu.br
+	@company O Cara dos Algoritmos
+	@since Nov 18, 2019
 
-    Exemplificando o uso da biblioteca 'stdbool.h'.
-    Exemplificando como declarar variáveis do tipo bool.
+	Exemplificando o uso da biblioteca 'stdbool.h'.
+	Exemplificando como declarar variáveis do tipo bool.
 	Exemplificando como usar as constantes 'true' e 'false'.
 */
 #include <stdio.h>
