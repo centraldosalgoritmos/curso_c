@@ -1,8 +1,8 @@
 /*
 	@author marcosmapl
 	@email marcos.lima@icomp.ufam.edu.br
-	@company Devcated
-	@since Nov 11, 2019
+	@company O Cara dos Algoritmos
+	@since Oct 20, 2019
 
 	Exemplos de Ordem de Avaliação de Operadores Aritméticos.
 */
