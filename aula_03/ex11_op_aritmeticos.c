@@ -1,10 +1,10 @@
 /*
-	@author marcosmapl
-	@email marcos.lima@icomp.ufam.edu.br
-	@company Devcated
-	@since Nov 11, 2019
+    @author marcosmapl
+    @email marcos.lima@icomp.ufam.edu.br
+    @company O Cara dos Algoritmos
+    @since Oct 20, 2019
 
-	Exemplos de Operadores Aritméticos.
+    Exemplos de Operadores Aritméticos.
 */
 #include <stdio.h>
 #include <stdbool.h>
