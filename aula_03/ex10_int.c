@@ -1,8 +1,8 @@
 /*
     @author marcosmapl
     @email marcos.lima@icomp.ufam.edu.br
-    @company Devcated
-    @since Nov 13, 2019
+    @company O Cara dos Algoritmos
+    @since Oct 20, 2019
 
     Exemplificando como declarar e inicializar variáveis inteiras.
     Como exibir seus valores nos sistemas Decimal, Octal e Hexadecimal.
