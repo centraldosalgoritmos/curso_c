@@ -2,10 +2,10 @@
     @author marcosmapl
     @email marcos.lima@icomp.ufam.edu.br
     @company Devcated
-    @since Nov 13, 2019
+    @review Mar 04, 2023
 
     Exemplificando como:
-    1 - Declarar e inicializar variáveis do tipo 'char'.
+    1 - Declarar e inicializar variáveis do tipo 'int'.
     2 - Como funciona a representação em binário de caracteres usando o tipo 'char'.
     3 - Por isso, como o tipo 'char' pode ser manipulado como 'int'.
 */
